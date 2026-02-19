@@ -6,6 +6,8 @@ This project analyzes IPL match data using Microsoft Excel to evaluate whether w
 ## Key Finding
 Teams that won the Powerplay won the match in 69.7% of cases.
 
+---
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
